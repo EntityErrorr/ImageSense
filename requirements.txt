@@ -1,0 +1,9 @@
+streamlit
+opencv-python
+transformers==4.33.2
+numpy
+Pillow
+easyocr
+yolov5
+torch
+torchvision
