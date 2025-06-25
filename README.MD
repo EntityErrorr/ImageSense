@@ -8,6 +8,9 @@ ImageSense is a multi-task visual intelligence tool that allows you to perform s
 - **Object Detection** 
 - **Optical Character Recognition (OCR)**
 
+![ImageSense Screenshot](Media/demo.png)
+
+
 ## Features
 
 - Upload an image and select a task from the sidebar.
